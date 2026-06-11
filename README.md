@@ -2,10 +2,6 @@
 
 I'm **Hashir Rajeef** — a techie from Kerala, India. I build AI-driven applications and robust full-stack systems, with a focus on storytelling AI, decentralized platforms, and practical ML solutions. 
 
-⚡ Catchy tagline: Building intelligent, reliable systems that blend machine learning, knowledge representation, and modern web engineering.
-
-## About Me
-
 ### About Me
 
 - Name: **Hashir Rajeef**
@@ -61,8 +57,6 @@ py,js,nodejs,react,nextjs,mongodb,ipfs,git,github,html,css,tailwind,express,pyto
 > - Projects showcase work across ML, full‑stack web, and decentralization.
 > - Live demos / homepages are linked where available.
 
-## GitHub Stats
-
 ### GitHub Stats 📊
 
 - Public repositories: **7**
@@ -75,8 +69,6 @@ Badges & Cards:
 - ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirR786&layout=compact)
 - Followers badge: ![Followers](https://img.shields.io/github/followers/hashirR786?label=Follow&style=social)
 - Repos badge: ![Repos](https://img.shields.io/badge/Public%20Repos-7-blue)
-
-(Use these images in your README to display live GitHub stats.)
 
 ## Connect with Me
 
