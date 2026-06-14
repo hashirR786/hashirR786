@@ -121,8 +121,9 @@ A modern full-stack platform focused on scalability, performance, and seamless u
 - RESTful backend services
 - Secure authentication
 - Scalable system design
+- Data stored on chain - immutable,tamper free
 
-**Tech:** React, TypeScript, Node.js, Express, MongoDB
+
 
 ---
 
