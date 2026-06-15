@@ -127,7 +127,7 @@ A modern full-stack platform focused on scalability, performance, and seamless u
 
 ---
 
-## 🦭 WALRUS
+## 🦭 WALRUS - Productivity
 
 A production-oriented web application built with modern UI/UX principles and cloud-ready backend architecture.
 
@@ -138,6 +138,25 @@ A production-oriented web application built with modern UI/UX principles and clo
 - Production deployment workflow
 
 **Tech:** React, TailwindCSS, Express, MongoDB
+
+---
+
+## 🦭 WALRUS — AI-Powered Learning Ecosystem
+
+A comprehensive full-stack EdTech platform designed exclusively for CBSE students, integrating AI tutoring, mock examinations, flashcards, productivity tools, analytics, and collaborative learning into a single intelligent learning environment.
+
+**Highlights**
+- AI-powered CBSE doubt solving using Google Gemini
+- Automated board-style mock test generation and evaluation
+- Spaced repetition flashcards with Leitner learning system
+- Syllabus tracking and performance analytics dashboard
+- Collaborative community hub with notes sharing and doubt forums
+- Virtual study rooms, productivity tools, and streak tracking
+- Secure authentication and cloud-based data persistence
+
+**Tech:** React, Vite, Node.js, Express.js, MongoDB Atlas, Gemini AI, JWT, Tesseract OCR
+
+**Impact:** Built as an all-in-one digital learning ecosystem that combines artificial intelligence, productivity, and collaboration to improve academic performance and learning efficiency.
 
 ---
 
