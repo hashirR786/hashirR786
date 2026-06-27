@@ -125,6 +125,16 @@ A modern full-stack platform focused on scalability, performance, and seamless u
 
 </td>
 </tr>
+
+<tr>
+<td width="100%">
+### ⚡ RedVER — Standalone Redis-Compatible Cache Engine
+A standalone, production-ready, in-memory key-value database built entirely from scratch in Python. Implements the standard Redis Serialization Protocol (RESP v2), allowing it to serve as a direct drop-in replacement for standard Redis in application backend stacks.
+**Highlights:** Zero third-party dependencies · Concurrent asyncio TCP server · Custom RESP protocol parser · Built-in HTTP dashboard UI with live stats & interactive Web CLI terminal · Dual durability modes (Append-Only File & RDB snapshots)
+`Python` `asyncio` `Sockets` `RESP Protocol` `HTML/JS/CSS` `Databases`
+</td>
+</tr>
+
 <tr>
 <td width="100%">
 
